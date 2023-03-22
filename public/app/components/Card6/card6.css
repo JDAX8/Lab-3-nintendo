@@ -1,0 +1,31 @@
+.img2 {
+    width: 268px;
+    height: 268px;
+}
+  .Todo{
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #cacaca;
+    height: 400px;
+    margin-left: 10px;
+    }
+  .Featured{
+    margin-bottom: 40px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .reddit-wrap {
+    width:260px;
+    background: #fff;
+    margin: auto;
+    margin-top: 100 px;
+    border-radius:3px;
+    padding: 30px;
+    border-top: 2px solid #e6ecf0;
+  }
+  .Name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+  }
+
+  

@@ -1,0 +1,41 @@
+.post {
+    border-radius: 4px;
+    padding: 20px;
+    height: 350px;
+  }
+  .post-imag{
+    height: 169px ;
+    width: 300px;
+    border-radius: 15px;
+  }
+  .Featured{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .post-divider {
+    margin: 0 5px;
+  }
+
+  .post-comments {
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  .post-comments a {
+    text-decoration: none;
+    color: #666;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .reddit-wrap {
+    width:260px;
+    background: #fff;
+    margin: auto;
+    margin-top: 100 px;
+    border-radius:3px;
+    padding: 30px;
+  }

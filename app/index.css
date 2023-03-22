@@ -1,0 +1,11 @@
+.fcomp1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ncomp1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 400px;
+  }

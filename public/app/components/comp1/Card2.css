@@ -1,0 +1,152 @@
+.img2 {
+  width:55%;
+  height: 200px;
+  margin-left: 400px;
+  background-size: cover;
+}
+
+.Imagen1{
+  width: 900px;
+  height: 500px;
+  margin-top: -400px;
+  margin-left: 450px;
+}
+.Fondo{
+  background-size: cover;
+}
+.Imagen1{
+  width: 1500px;
+  height: 600px;
+  margin-top: -450px;
+  margin-left: 150px;
+}
+.Texto1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Texto1 button{
+  margin-right: 500px;
+  height: 50px;
+  width: 150px;
+  background-color: red;
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  text-transform:uppercase ;
+  font-size: 20PX;
+  color: aliceblue;
+}
+.Texto1 img{
+  width: 45px;
+  height: 60px;
+  
+}
+.Texto1 h4{
+  margin-right: 100px;
+}
+.Todo{
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #cacaca;
+}
+.post {
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.post-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.post-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.reddit-image{
+  height: 146px;
+  width: 250px;
+}
+.post-title a {
+  text-decoration: none;
+  color: #333;
+}
+.Featured{
+  margin-bottom: 40px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.post-subtitle {
+  font-size: 14px;
+  color: #666;
+  display: flex;
+  align-items: center;
+}
+
+.post-divider {
+  margin: 0 5px;
+}
+
+.post-content {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.post-footer {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #666;
+}
+
+.post-score {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.post-upvote,
+.post-downvote {
+  font-size: 24px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.post-score-number {
+  margin-right: 10px;
+}
+
+.post-comments {
+  display: flex;
+  align-items: center;
+}
+
+.post-comments a {
+  text-decoration: none;
+  color: #666;
+  font-size: 16px;
+}
+.reddit-wrap {
+  width:260px;
+  background: #fff;
+  margin: auto;
+  margin-top: 100 px;
+  border-radius:3px;
+  padding: 30px;
+  border-bottom: 2px solid #e6ecf0;
+  border-top: 2px solid #e6ecf0;
+  border-left: 2px solid #e6ecf0;
+  border-right: 2px solid #e6ecf0;
+}
+.Todo h1{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 400px;
+}
